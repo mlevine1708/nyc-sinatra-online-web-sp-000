@@ -1,0 +1,3 @@
+class CreateFigures < ActiveRecord::Migration
+
+  def change
